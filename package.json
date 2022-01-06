@@ -5,10 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackmew/react-native-svg-flagkit"
-  },
-  "bugs": {
-    "url": "https://github.com/jackmew/react-native-svg-flagkit/issues"
+    "url": "https://github.com/ingcarlosmrivera/react-native-svg-flagkit"
   },
   "keywords": [
     "react-component",
@@ -18,15 +15,13 @@
     "flag",
     "ios",
     "android",
-    "svg",
-    "國旗",
-    "国旗"
+    "svg"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "react-native-svg": "^9.3.3"
+    "react-native-svg": "^12.1.0"
   },
   "author": "",
   "license": "ISC"
